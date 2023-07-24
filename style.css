@@ -1,0 +1,127 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+}
+.form{
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    border: 0;
+    width: 350px;
+    margin-right: 400px;
+    margin-left: 810px;
+    margin-top: 120px;
+    height: 430px;
+    box-shadow: 10px 10px 10px 10px rgb(192, 192, 192);
+
+}
+label , Email{
+    color: rgb(0, 129, 243);
+    font-size: 20px;
+    text-decoration: none;
+}
+
+input , text{
+    background-color: #FAFAFA;
+    height: 30px;
+    width: 300px;
+    border-radius: 2px;
+    margin-top: 20px;
+    margin-bottom: -20px;
+}
+button{
+    height: 35px;
+    width: 300px;
+    border-radius: 5px;
+    margin-top: 30px;
+    background-color: #1cacf5;
+    color: #ffffff;
+    text-decoration: none;
+    border: 0;
+}
+.Instagram{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-family: 'Cookie', cursive;
+    /* font-family: 'Lobster', cursive; */
+/* font-family: 'Tangerine', cursive; */
+    font-style: italic;
+    font-size: 340%;
+    color: rgba(14, 1, 1, 0.848);
+}
+.fa-facebook{
+    background-color: #4A55A2;;
+    color: #fff;
+    width: 15px;
+    height: 17px;
+    text-decoration: none;
+    /* margin-right: 35px; */
+}
+
+#Forgot{
+margin-top: 10px;
+margin-bottom: 10px;
+}
+#LIWF{
+    color: #4A55A2;
+}
+.Instalogo{
+    mix-blend-mode: multiply;
+    background-color: #1cacf5;
+}
+.homephones{
+    margin-top: -425px;
+    /* margin-bottom: 90px; */
+    margin-left: -820px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.box2{
+    background-color: #FAFAFA;
+    height: 50px;
+    width: 350px;
+    box-shadow: 10px 10px 10px 10px rgb(192, 192, 192);
+    margin-top: -150px;
+    margin-bottom: 80;
+    text-transform: none;
+}
+
+.gta{
+    margin-left: 950px;
+    margin-top: 100px;
+}
+
+.google-pay{
+    height: 40px;
+    margin-left: 850px;
+}
+
+.microsoft{
+    height: 40px;
+    /* margin-left: 1000px; */
+    margin-top: -100px;
+    margin-right: 100px;
+}
+
+
+
+.pretag{
+    /* margin-top: 500px; */
+    margin-top: 50px;
+    margin-left: 280px;
+}
+
+
+.pretag2{
+    margin-top: 10px;
+    margin-left: 670px;
+}
